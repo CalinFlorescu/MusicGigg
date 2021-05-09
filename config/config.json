@@ -1,0 +1,10 @@
+{
+    "env": "development",
+    "server": {
+        "port": 8080
+    },
+    "logger": {
+        "host": "localhost",
+        "port": 8000
+    }
+}
